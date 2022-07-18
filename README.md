@@ -1,2 +1,1 @@
-# card-game
-# card-game
+The book app (start with TDD with React)
